@@ -10259,7 +10259,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background: linear-gradient(#000, #809AFD, #000);
+  background: #809AFD;
   color: #fff;
 }
 
